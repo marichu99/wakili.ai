@@ -1,0 +1,10 @@
+selenium
+python-dotenv
+pandas
+numpy<=1.24.3
+bs4
+webdriver_manager
+scikit-learn
+typing-extensions
+playwright
+gitpython
