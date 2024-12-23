@@ -8,3 +8,4 @@ scikit-learn
 typing-extensions
 playwright
 gitpython
+docx2pdf
